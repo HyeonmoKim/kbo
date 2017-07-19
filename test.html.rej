@@ -1,0 +1,9 @@
+diff a/test.html b/test.html	(rejected hunks)
+@@ -0,0 +1,6 @@
++<html>
++<head></html>
++<body>
++	Hello World1
++</body>
++</html>
+\ No newline at end of file
